@@ -1,0 +1,6 @@
+python-dotenv
+vk-api
+sqlalchemy
+PyQt5
+transformers
+diffusers
